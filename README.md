@@ -7,7 +7,7 @@ This project is a machine learning system that classifies news articles as Fake 
 - Text preprocessing (lowercasing, removing punctuation and stopwords)
 - TF-IDF feature extraction
 - Logistic Regression classifier
-
+ 
 ## Performance
 
 The model achieves approximately 98% accuracy on the test dataset.
